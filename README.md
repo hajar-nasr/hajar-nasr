@@ -67,7 +67,6 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <br/>
-<a href="https://github.com/hajarNasr" target="_blank" rel="noreferrer">My other Github account can be found here</a>
 </div>
 </div>
 
